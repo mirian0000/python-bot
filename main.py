@@ -281,12 +281,6 @@ def trx_address(message):
         json.dump(data, open('users.json', 'w'))
         return menu(message.chat.id)
     else:
-        len(message.text) == 34:
-        user_id = message.chat.id
-        user = str(user_id)
-        data = json.load(open('users.json', 'r'))
-        data['wallet'][user] = message.text
-
         bot.send_message(message.chat.id, "*💹Your Trx wallet set to " +
                          data['wallet'][user]+"*", parse_mode="Markdown")
         json.dump(data, open('users.json', 'w'))
