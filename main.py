@@ -5,7 +5,7 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "TRON"
 
-BOT_TOKEN = "5710284858:AAHcIDYAtWAC01p8BsHRl4cIwhcKpBqNlTQ"
+BOT_TOKEN = "7050265304:AAHEi89KX3D66wBFAkRkmWr0sIlekFsAs7o"
 PAYMENT_CHANNEL = "@testpostchnl" #add payment channel here including the '@' sign
 OWNER_ID = 5151868182 #write owner's user id here.. get it from @MissRose_Bot by /id
 CHANNELS = ["@testpostchnl"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
