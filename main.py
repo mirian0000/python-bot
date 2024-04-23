@@ -5,7 +5,7 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "$SLAN"
 
-BOT_TOKEN = "7050265304:AAHEi89KX3D66wBFAkRkmWr0sIlekFsAs7o"
+BOT_TOKEN = "6996932740:AAHDUM317UG7t5iPSDCWul_xf-I_d5mQaIA"
 PAYMENT_CHANNEL = "@solanusgottapay" #add payment channel here including the '@' sign
 OWNER_ID = 776442462 #write owner's user id here.. get it from @MissRose_Bot by /id
 CHANNELS = ["@solanuss"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
