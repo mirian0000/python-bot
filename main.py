@@ -8,10 +8,10 @@ TOKEN = "$SLAN"
 BOT_TOKEN = "6996932740:AAHDUM317UG7t5iPSDCWul_xf-I_d5mQaIA"
 PAYMENT_CHANNEL = "@solanusgottapay" #add payment channel here including the '@' sign
 OWNER_ID = 776442462 #write owner's user id here.. get it from @MissRose_Bot by /id
-CHANNELS = ["@solanuss"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
+CHANNELS = ["t.me/SafeguardRobot?start=-1002101716357"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 420 #Put daily bonus amount here!
-Mini_Withdraw = 420  #remove 0 and add the minimum withdraw u want to set
+Mini_Withdraw = 20420  #remove 0 and add the minimum withdraw u want to set
 Per_Refer = 20420 #add per refer bonus here
 
 bot = telebot.TeleBot(BOT_TOKEN)
